@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Police\Police\bin\Debug\Police.exe.config
+C:\Users\student\source\repos\Police\Police\bin\Debug\Police.exe
+C:\Users\student\source\repos\Police\Police\bin\Debug\Police.pdb
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.Form1.resources
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.Properties.Resources.resources
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.exe
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.pdb
+C:\Users\student\source\repos\Police\Police\obj\Debug\Police.registration.resources
